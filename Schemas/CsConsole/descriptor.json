@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fbdfc8bd-7dcd-4bd1-87e4-28be8d91ba7d",
+    "Name": "CsConsole",
+    "ModifiedOnUtc": "\/Date(1614850152000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "CS console",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="C# code editor" />
+			<Item Name="LocalizableStrings.ClosePageButtonCaption.Value" Value="Exit" />
+			<Item Name="LocalizableStrings.NewTab1Caption.Value" Value="Source code" />
+			<Item Name="LocalizableStrings.NewTab1Group1Caption.Value" Value=" " />
+			<Item Name="LocalizableStrings.RunButtonCaption.Value" Value="Выполнить" />
+			<Item Name="LocalizableStrings.RunCodeButtonCaption.Value" Value="Выполнить" />
+			<Item Name="LocalizableStrings.Tabf1e33e38TabLabelGroup7080d0ecGroupCaption.Value" Value="Result" />
+			<Item Name="LocalizableStrings.Tabf1e33e38TabLabelTabCaption.Value" Value="Execution result" />
+			<Item Name="Parameters.bd2425da-892f-468e-82f5-acb603a3bd86.Caption" Value="Result" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.8c062282-eeee-43ab-9c46-c0c40dadb9f6.Caption" Value="Выполнить" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="Parameters.f2f4d73c-717e-4bdf-8213-bfbad351f23b.Caption" Value="Cs code" />
+		</Items>
+	</Group>
+</Resources>

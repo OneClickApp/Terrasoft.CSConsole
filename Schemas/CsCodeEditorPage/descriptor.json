@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e11c35b9-e848-4fef-8ca3-5aad677bb83f",
+    "Name": "CsCodeEditorPage",
+    "ModifiedOnUtc": "\/Date(1617295835000)\/",
+    "Parent": {
+      "UId": "476a99c1-0d73-4443-93ea-a0fcce318bf0",
+      "Name": "BasePageRightContainerProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "C# code editor",
+    "DependsOn": []
+  }
+}
