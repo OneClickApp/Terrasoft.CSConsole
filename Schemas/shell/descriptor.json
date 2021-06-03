@@ -2,9 +2,8 @@
   "Descriptor": {
     "UId": "c97e7bb2-5ff8-465c-f210-27195b1e4c1e",
     "Name": "shell",
-    "ModifiedOnUtc": "\/Date(1614849666000)\/",
+    "ModifiedOnUtc": "\/Date(1622716902000)\/",
     "ManagerName": "SourceCodeSchemaManager",
-    "Caption": "ShellExecutor",
-    "DependsOn": []
+    "Caption": "ShellExecutor"
   }
 }

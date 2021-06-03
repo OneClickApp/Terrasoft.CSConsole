@@ -32,8 +32,12 @@ namespace Terrasoft.Configuration
 				if (this.userConnection == null)
 				{
 					this.userConnection = (UserConnection)HttpContext.Current.Session[@"UserConnection"];
+                  
+                    if (!this.userConnection.DBSecurityEngine.GetCanExecuteOperation("CanManageAdministration"))
+                    {
+                        throw new Exception("user is not admin");
+                    }
 				}
-
 				return this.userConnection;
 			}
 		}
